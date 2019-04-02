@@ -5,7 +5,7 @@ int main(){
 	float b=3.0;
 	float c;
 	c=a*b;
-	std::cout<<c<<std::endl;
+	std::cout<<"el producto de a por b es "<< c<<std::endl;
 	return 0;
 
 }
